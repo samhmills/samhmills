@@ -7,14 +7,29 @@ I'm Sam, a software engineer based in Luxembourg.
 - 📫 How to reach me: [Website](https://sam.mills.lu/) - [GitLab](https://gitlab.com/sammills/) - [LinkedIn](https://www.linkedin.com/in/sam-mills-lu/)
 
 ### Experiences & Skills
+
+#### Software Dev
 * Node.js: Express.js, Vue.js
-* PostgreSQL: Sequelize
-* MongoDB: Mongoose
 * Python: Embedded (compression & encryption), GDAL
-* S3: MinIO
 * Bitcoin/Litecoin RPC
 * Arduino C++
 * Genetic/Evolutionary Algorithms
+
+#### Data Engineering
+* NASA Geospatial datasets
+* Coinbase & Binance financial datasets
+* Dark web crawling
+
+#### DevOps
+* PostgreSQL: Sequelize
+* MongoDB: Mongoose
+* Redis
+* RabbitMQ & MQTT
+* S3: MinIO, <450 TB Data storage
+
+#### System Administration, Networking & Operations
+* Ubiquiti UniFi
+* Microsoft 365
 
 ### Portfolio
 * [Terrain Generator](https://sammills.gitlab.io/TerrainSimulator/)
