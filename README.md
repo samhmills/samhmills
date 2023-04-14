@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**samhmills/samhmills** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sam, a software engineer based in Luxembourg.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on quantitve trading strategies, embedded robotics and AI tools.
+- 🌱 I’m currently learning Rust.
+- 📫 How to reach me: [Website](https://sam.mills.lu/) - [GitLab](https://gitlab.com/sammills/) - [LinkedIn](https://www.linkedin.com/in/sam-mills-lu/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Experiences & Skills
+* Node.js: Express.js, Vue.js
+* PostgreSQL: Sequelize
+* MongoDB: Mongoose
+* Python: Embedded (compression & encryption), GDAL
+* S3: MinIO
+* Bitcoin/Litecoin RPC
+* Arduino C++
+* Genetic/Evolutionary Algorithms
+
+### Portfolio
+* [Terrain Generator](https://sammills.gitlab.io/TerrainSimulator/)
+* Genetic Async (Node.js)
+* Jethro Logging Utility
+* ESLint Configuration
